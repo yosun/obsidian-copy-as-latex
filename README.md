@@ -61,6 +61,7 @@ Text features:
 - [X] italic
 - [X] External links
 - [X] Automatic external links (except Obsidian is more generous than the GFM parser)
+- [X] tables
 - [ ] Footnotes (It only makes sense to use inline foonotes, which Obsidian supports, but not the GFM parser)
 - [ ] Highlight (again, not in GFM)
 - [X] Special characters: `& % $ # _ { } ~ ^ \` 
